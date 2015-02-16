@@ -1,0 +1,1 @@
+<song path="dir_name/full_file_name" bild="booklet/blank.swf, 110, 1" artist="Learn Spanish Verbs Fast" booklet="booklet text here" english="English translation" grammar="grammar points" title="short_file_name"><booklet><span class='subheading'>short_file_name</span></booklet></song>

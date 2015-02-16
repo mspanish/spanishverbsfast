@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ebook baseCol="0x999999" barCol="0x000000">
+
+	<bookpages path="ebook_stace/" tree="1">
+
+		<page file="1.swf" >
+			<![CDATA[Introduction to Verbs & Infinitives]]>
+		</page>
+	
+		<page file="2.swf" >
+			<![CDATA[Present Tense AR]]>
+		</page>
+	
+       	 <page file="3.swf" >
+			<![CDATA[Present Tense ER/IR]]>
+		</page>
+	
+		<page file="4.swf" >
+        	<![CDATA[Preterite Tense AR]]>
+		</page>
+	
+		<page file="5.swf" >
+			<![CDATA[Preterite Tense ER/IR]]>
+		</page>
+	
+		<page file="6.swf" >
+			<![CDATA[Imperfect AR]]>
+		</page>
+	
+		<page file="7.swf" >
+			<![CDATA[Imperfect Tense ER/IR]]>
+		</page>
+	
+		<page file="8.swf" >
+			<![CDATA[Future AR]]>
+		</page>
+
+		<page file="9.swf" >
+			<![CDATA[Future ER/IR]]>
+		</page>
+
+		<page file="10.swf" >
+			<![CDATA[Present Participles:ING]]>
+		</page>
+
+		<page file="11.swf" >
+			<![CDATA[Past Participles]]>
+		</page>
+
+		<page file="12.swf" >
+			<![CDATA[Musical Spanish - learn through pop music]]>
+		</page>
+	
+		<page file="13.swf" >
+			<![CDATA[Worksheets & Quizzes]]>
+		</page>
+	</bookpages>
+	
+	<audiolist path="mp3s/" >
+	
+<!-- page 1 -->
+		<sound id="1" file="intro.mp3" title="introduction to this audio program"/>
+		<sound id="2" file="track01-infinitives.mp3" title="infinitive verbs" />
+		<sound id="3" file="yo.mp3" title="" />
+		<sound id="4" file="el.mp3" title=""/>
+		<sound id="5" file="usted.mp3" title=""/>
+		<sound id="6" file="ella.mp3" title=""/>
+		<sound id="7" file="tu.mp3" title=""/>
+		<sound id="8" file="nosotros.mp3" title=""/>
+		<sound id="9" file="ellos.mp3" title="" />
+		<sound id="10" file="uds.mp3" title=""/>
+<!-- page 2 -->
+		<sound id="11" file="track02-pattern-ar.mp3" title="AR present tense pattern" />
+		<sound id="12" file="track06-pattern-er.mp3" title="ER/IR present tense pattern" />
+		<sound id="13" file="track09-pattern-ir.mp3" title="ER/IR present tense pattern" />
+		<sound id="14" file="track03-ar-present1.mp3" title="AR present verbs 1"/>
+		<sound id="15" file="track04-ar-present2.mp3" title="AR present verbs 2"/>
+		<sound id="16" file="track05-ar-present3.mp3" title="AR present verbs 3"/>
+<!-- page 3 -->		
+		<sound id="17" file="track07-er-present1.mp3" title="ER present verbs 1"/>
+		<sound id="18" file="track08-er-present2.mp3" title="ER present verbs 2"/>
+		<sound id="19" file="track10-ir-present.mp3" title="IR present verbs 1"/>
+		<sound id="20" file="track11-preps.mp3" title=""/>
+<!-- page 4 -->			
+		<sound id="21" file="track12-pattern-ar.mp3" title="AR preterite tense pattern"/>
+		<sound id="22" file="track16-pattern-er-ir.mp3" title="ER/IR preterite tense pattern" />
+		<sound id="23" file="track13-ar-preterite1.mp3" title="AR preterite verbs 1" />
+		<sound id="24" file="track14-ar-preterite2.mp3" title="AR preterite verbs 2"/>
+		<sound id="25" file="track15-ar-preterite3.mp3" title="AR preterite verbs 3"/>
+<!-- page 5 -->			
+		<sound id="26" file="track17-er-preterite1.mp3" title="ER preterite verbs 1"/>
+		<sound id="27" file="track18-er-preterite2.mp3" title="ER preterite verbs 2"/>
+		<sound id="28" file="track19-ir-preterite.mp3" title="IR preterite verbs"/>
+<!-- page 6 -->			
+		<sound id="29" file="track20-pattern-ar.mp3" title="AR imperfect tense pattern" />
+		<sound id="30" file="track24-pattern-er-ir.mp3" title="ER/IR imperfect tense pattern"/>		
+		<sound id="31" file="track21-ar-imperfect1.mp3" title="AR imperfect verbs 1"/>
+		<sound id="32" file="track22-ar-imperfect2.mp3" title="AR imperfect verbs 2" />
+		<sound id="33" file="track23-ar-imperfect3.mp3" title="AR imperfect verbs 3" />
+<!-- page 7 -->			
+		<sound id="34" file="track25-er-imperfect1.mp3" title="ER imperfect verbs 1"/>
+		<sound id="35" file="track26-er-imperfect2" title="ER imperfect verbs 2"/>
+		<sound id="36" file="track27-ir-imperfect" title="IR imperfect verbs"/>
+<!-- page 8 -->			
+		<sound id="37" file="track28-pattern-future.mp3" title="future tense pattern"/>
+		<sound id="38" file="track29-future-ar1.mp3" title="AR future verbs 1"/>
+		<sound id="39" file="track30-future-ar2.mp3" title="AR future verbs 2" />
+		<sound id="40" file="track31-future-ar3.mp3" title="AR future verbs 3"/>	
+<!-- page 9 -->						
+		<sound id="41" file="track32-future-er1.mp3" title="ER future verbs 1"/>
+		<sound id="42" file="track33-future-er2.mp3" title="ER future verbs 2" />
+		<sound id="43" file="track34-future-ir.mp3" title="IR future verbs" />
+		<sound id="44" file="track35-ir-a-verb.mp3" title="going to: ir + a + verb"/>
+<!-- page 10 -->			
+		<sound id="45" file="track36-pattern-ing.mp3" title="active ING attern"/>
+		<sound id="46" file="track37-ing-ar.mp3" title="ING verbs for AR verbs"/>	
+		<sound id="47" file="track38-ing-er.mp3" title="ING verbs for ER/IR verbs"/>
+<!-- page 11 -->		
+		<sound id="48" file="track41-pattern-past-part.mp3" title="pattern for past participles"/>
+		<sound id="49" file="track42-participles-ar.mp3" title="AR past participles" />
+		<sound id="50" file="track43-participles-er.mp3" title="ER past participles"/>	
+<!-- page 13 -->	
+		<sound id="51" file="track44-activities.mp3" title="Activities"/>	
+	</audiolist>
+	
+	<swflist path="movs/" >
+		<swf id="1" file="infinitives.swf" width="425" height="250" title="Infinitives" />
+		<swf id="2" file="ar_pattern.swf" width="425" height="250" title="AR Present Tense Pattern" />
+		<swf id="3" file="er_pattern.swf" width="425" height="250" title="ER Present Tense Pattern" />
+		<swf id="4" file="ir_pattern.swf" width="425" height="250" title="IR Present Tense Pattern" />
+		<swf id="5" file="ar_preterite.swf" width="425" height="250" title="AR Preterite Tense Pattern" />
+		<swf id="6" file="er_preterite.swf" width="425" height="250" title="ER Preterite Tense Pattern" />
+		<swf id="8" file="ar_imperfect.swf" width="425" height="250" title="AR Imperfect Tense Pattern" />
+		<swf id="9" file="er_imperfect.swf" width="425" height="250" title="ER/IR Imperfect Tense Pattern" />
+		<swf id="10" file="ir_imperfect.swf" width="425" height="250" title="ER/IR Imperfect Tense Pattern" />
+		<swf id="11" file="ir_imperfect.swf" width="425" height="250" title="ER/IR Imperfect Tense Pattern" />
+		<swf id="12" file="future.swf" width="425" height="250" title="Future Tense Pattern" />
+		<swf id="13" file="future.swf" width="425" height="250" title="Future Tense Pattern" />
+		<swf id="14" file="future.swf" width="425" height="250" title="Future Tense Pattern" />
+		<swf id="15" file="ing.swf" width="425" height="250" title="Present Participle - Active ING Pattern" />
+		<swf id="16" file="estar-ing.swf" width="425" height="250" title="The Helper Verb Estar" />
+		<swf id="17" file="ed.swf" width="425" height="250" title="Past Participle Pattern" />
+		<swf id="18" file="he.swf" width="425" height="250" title="The Helper Verb Haber" />
+		
+	</swflist>
+</ebook>

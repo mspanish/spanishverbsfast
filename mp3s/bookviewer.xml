@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<songs>
+<song path="mp3s/bamba2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="bamba2">
+<booklet><span class='subheading'>bamba2</span></booklet>
+</song>
+<song path="mp3s/intro.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="intro">
+<booklet><span class='subheading'>intro</span></booklet>
+</song>
+<song path="mp3s/track01-infinitives.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="01-infinitives">
+<booklet><span class='subheading'>01-infinitives</span></booklet>
+</song>
+<song path="mp3s/track02-pattern-ar.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="02-pattern-ar">
+<booklet><span class='subheading'>02-pattern-ar</span></booklet>
+</song>
+<song path="mp3s/track03-ar-present1.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="03-ar-present1">
+<booklet><span class='subheading'>03-ar-present1</span></booklet>
+</song>
+<song path="mp3s/track04-ar-present2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="04-ar-present2">
+<booklet><span class='subheading'>04-ar-present2</span></booklet>
+</song>
+<song path="mp3s/track05-ar-present3.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="05-ar-present3">
+<booklet><span class='subheading'>05-ar-present3</span></booklet>
+</song>
+<song path="mp3s/track06-pattern-er.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="06-pattern-er">
+<booklet><span class='subheading'>06-pattern-er</span></booklet>
+</song>
+<song path="mp3s/track07-er-present1.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="07-er-present1">
+<booklet><span class='subheading'>07-er-present1</span></booklet>
+</song>
+<song path="mp3s/track08-er-present2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="08-er-present2">
+<booklet><span class='subheading'>08-er-present2</span></booklet>
+</song>
+<song path="mp3s/track09-pattern-ir.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="09-pattern-ir">
+<booklet><span class='subheading'>09-pattern-ir</span></booklet>
+</song>
+<song path="mp3s/track10-ir-present.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="10-ir-present">
+<booklet><span class='subheading'>10-ir-present</span></booklet>
+</song>
+<song path="mp3s/track11-preps.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="11-preps">
+<booklet><span class='subheading'>11-preps</span></booklet>
+</song>
+<song path="mp3s/track12-pattern-ar.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="12-pattern-ar">
+<booklet><span class='subheading'>12-pattern-ar</span></booklet>
+</song>
+<song path="mp3s/track13-ar-preterite1.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="13-ar-preterite1">
+<booklet><span class='subheading'>13-ar-preterite1</span></booklet>
+</song>
+<song path="mp3s/track14-ar-preterite2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="14-ar-preterite2">
+<booklet><span class='subheading'>14-ar-preterite2</span></booklet>
+</song>
+<song path="mp3s/track15-ar-preterite3.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="15-ar-preterite3">
+<booklet><span class='subheading'>15-ar-preterite3</span></booklet>
+</song>
+<song path="mp3s/track16-pattern-er-ir.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="16-pattern-er-ir">
+<booklet><span class='subheading'>16-pattern-er-ir</span></booklet>
+</song>
+<song path="mp3s/track17-er-preterite1.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="17-er-preterite1">
+<booklet><span class='subheading'>17-er-preterite1</span></booklet>
+</song>
+<song path="mp3s/track18-er-preterite2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="18-er-preterite2">
+<booklet><span class='subheading'>18-er-preterite2</span></booklet>
+</song>
+<song path="mp3s/track19-ir-preterite.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="19-ir-preterite">
+<booklet><span class='subheading'>19-ir-preterite</span></booklet>
+</song>
+<song path="mp3s/track20-pattern-ar.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="20-pattern-ar">
+<booklet><span class='subheading'>20-pattern-ar</span></booklet>
+</song>
+<song path="mp3s/track21-ar-imperfect1.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="21-ar-imperfect1">
+<booklet><span class='subheading'>21-ar-imperfect1</span></booklet>
+</song>
+<song path="mp3s/track22-ar-imperfect2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="22-ar-imperfect2">
+<booklet><span class='subheading'>22-ar-imperfect2</span></booklet>
+</song>
+<song path="mp3s/track23-ar-imperfect3.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="23-ar-imperfect3">
+<booklet><span class='subheading'>23-ar-imperfect3</span></booklet>
+</song>
+<song path="mp3s/track24-pattern-er-ir.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="24-pattern-er-ir">
+<booklet><span class='subheading'>24-pattern-er-ir</span></booklet>
+</song>
+<song path="mp3s/track25-er-imperfect1.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="25-er-imperfect1">
+<booklet><span class='subheading'>25-er-imperfect1</span></booklet>
+</song>
+<song path="mp3s/track26-er-imperfect2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="26-er-imperfect2">
+<booklet><span class='subheading'>26-er-imperfect2</span></booklet>
+</song>
+<song path="mp3s/track27-ir-imperfect.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="27-ir-imperfect">
+<booklet><span class='subheading'>27-ir-imperfect</span></booklet>
+</song>
+<song path="mp3s/track28-pattern-future.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="28-pattern-future">
+<booklet><span class='subheading'>28-pattern-future</span></booklet>
+</song>
+<song path="mp3s/track29-future-ar1.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="29-future-ar1">
+<booklet><span class='subheading'>29-future-ar1</span></booklet>
+</song>
+<song path="mp3s/track30-future-ar2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="30-future-ar2">
+<booklet><span class='subheading'>30-future-ar2</span></booklet>
+</song>
+<song path="mp3s/track31-future-ar3.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="31-future-ar3">
+<booklet><span class='subheading'>31-future-ar3</span></booklet>
+</song>
+<song path="mp3s/track32-future-er1.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="32-future-er1">
+<booklet><span class='subheading'>32-future-er1</span></booklet>
+</song>
+<song path="mp3s/track33-future-er2.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="33-future-er2">
+<booklet><span class='subheading'>33-future-er2</span></booklet>
+</song>
+<song path="mp3s/track34-future-ir.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="34-future-ir">
+<booklet><span class='subheading'>34-future-ir</span></booklet>
+</song>
+<song path="mp3s/track35-ir-a-verb.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="35-ir-a-verb">
+<booklet><span class='subheading'>35-ir-a-verb</span></booklet>
+</song>
+<song path="mp3s/track36-pattern-ing.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="36-pattern-ing">
+<booklet><span class='subheading'>36-pattern-ing</span></booklet>
+</song>
+<song path="mp3s/track37-ing-ar.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="37-ing-ar">
+<booklet><span class='subheading'>37-ing-ar</span></booklet>
+</song>
+<song path="mp3s/track38-ing-er.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="38-ing-er">
+<booklet><span class='subheading'>38-ing-er</span></booklet>
+</song>
+<song path="mp3s/track41-pattern-past-part.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="41-pattern-past-part">
+<booklet><span class='subheading'>41-pattern-past-part</span></booklet>
+</song>
+<song path="mp3s/track42-participles-ar.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="42-participles-ar">
+<booklet><span class='subheading'>42-participles-ar</span></booklet>
+</song>
+<song path="mp3s/track43-participles-er.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="43-participles-er">
+<booklet><span class='subheading'>43-participles-er</span></booklet>
+</song>
+<song path="mp3s/track44-activities.mp3" bild="booklet/blank.swf, 110, 1" artist="ImmersionPlus Spanish" booklet="booklet text here" english="English translation" grammar="grammar points" title="44-activities">
+<booklet><span class='subheading'>44-activities</span></booklet>
+</song>
+</songs>
